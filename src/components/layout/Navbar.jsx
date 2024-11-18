@@ -7,7 +7,7 @@ const NavBar = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <nav className="sticky top-0 left-0 w-full px-8 py-4 mb-8 z-50 backdrop-blur-md bg-opacity-60 bg-gray-600">
+    <nav className="sticky top-0 left-0 w-full px-8 py-4 mb-8 z-50 backdrop-blur-md bg-opacity-40 bg-gray-800 border-b border-gray-300/20">
       <div className="flex items-center justify-between">
         <a href="#home" className="flex-shrink-0">
           <img src={logo} alt="Logo" width={80} className="text-white" />
