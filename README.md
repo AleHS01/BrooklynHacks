@@ -39,15 +39,15 @@ brew install node
 npm -v
 ```
 
-## Clone the [BrooklynHacks](https://github.com/AleHS01/college-space.git) repo
+## Clone the [BrooklynHacks](https://github.com/AleHS01/BrooklynHacks) repo
 ```bash
-git clone https://github.com/AleHS01/college-space.git
+git clone https://github.com/AleHS01/BrooklynHacks.git
 ```
 
-## cd into HackUNI
+## cd into BrooklynHacks
 
 ```bash
-cd HackUNI
+cd BrooklynHacks
 ```
 
 ## Install libraries  & Dependencies
