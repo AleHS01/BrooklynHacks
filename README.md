@@ -2,7 +2,8 @@
 
 Official Website of the Hackathon "BrooklynHacks," showcasing event details, schedules, and participant resources.
 
- > Note: This app is under  development.
+> [!NOTE]
+> This web application is under development.
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
